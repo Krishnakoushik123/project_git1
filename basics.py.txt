@@ -1,0 +1,15 @@
+# This is a comment. Python ignores lines starting with '#'
+
+# 1. Ask the user for their name
+name = input("What is your name? ")
+
+# 2. Print a personalized greeting
+print("Hello, " + name + "! Welcome to Python.")
+
+# 3. Perform a simple math calculation
+number1 = 5
+number2 = 10
+result = number1 + number2
+
+# 4. Display the result
+print("The sum of 5 and 10 is:", result)
